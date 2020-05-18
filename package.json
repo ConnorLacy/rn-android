@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "react-native-cli": "^2.0.1"
+  },
+  "name": "y",
+  "version": "y",
+  "description": "React Native Android App",
+  "main": "index.js",
+  "repository": "https://github.com/ConnorLacy/rn-android",
+  "author": "Connor Lacy",
+  "license": "y",
+  "private": true
+}
